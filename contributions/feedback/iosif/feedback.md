@@ -15,11 +15,29 @@ First, I would like to thank Pier for his fascinating essay. Reading his essay w
 In this section, I would like to give some points of improvement and **NOT** weaknesses. At the same time, someone other than me is the correct person for this job.
 
 - The author does not use the "academic" way to write his references. It is not a big issue for me because I am an engineer. I enjoy reading different styles of essays and trying to understand the essay topic and not waste my time on its structure (Because I do not study soft science). However, I can not leave this comment out of my feedback because, for many scientists, the "good" reference structure is essential.
+<<<<<<< HEAD
 - The author uses some acronyms that he needs to explain clearly what they stand for. 
+=======
+The author uses some acronyms that he needs to explain clearly what they stand for. 
+>>>>>>> 191da5c64c3d766fae4928aef5188922d154c4b4
 - I enjoy one sentence explaining anonymity (because both technical and non-technical people usually confuse it with privacy).
 - I would like to see some graphs showing some of the cases the authors present.
 - See some screenshots or suggestions from well-known newspapers and articles that illustrate the topic of the essay. For example, **Forbes** has a fascinating article about this topic. That I suggest it is worth reading [Binance On Deathbed, And Crypto Is Birthed](https://www.forbes.com/sites/digital-assets/2023/11/26/binance-dies-and-crypto-is-birthed/?sh=415da8e9502b)
 
+<<<<<<< HEAD
+=======
+## Weaknesses / Improvement recommendation
+
+In this section I would like to give some points of improvement and **NOT** weaknesses. While I strongly believe I am not the correct person for this job.
+
+- Authors does not use the "academic" way to write his references. Although personally is not big issue because I am engineer and I enjoy reading different styles of essays and trying to understand the essay topic, and not waist my time on its structure (Because I don't study soft science), although I can not leave this comment out of my feedback because for a lot scientists the "good" reference structure is important.
+- Author uses some acronyms that he does not explain clearly what they stand for. 
+- I would enjoy one sentence of explanation about what is anonymity (because people technical and non usually confuse it with privacy.)
+- I would like to see some graphs showing some of the cases the authors presents.
+- See some screenshot or suggestions from well known news papers articles that illustrates the topic of the essay. For example **Forbes** has a very interesting article about this topic. That I suggest it is worth of reading [Binance On Deathbed, And Crypto Is Birthed](https://www.forbes.com/sites/digital-assets/2023/11/26/binance-dies-and-crypto-is-birthed/?sh=415da8e9502b)
+
+
+>>>>>>> 191da5c64c3d766fae4928aef5188922d154c4b4
 ## Some detailed points
 
 ### Introduction
@@ -33,6 +51,20 @@ Author uses some acronyms about the USA government sections, that personal as re
 ### Case studies
 
 As I mentioned in previous sections I liked a lot that the author uses well known cases in her essay and with this way makes the readers experience much more interesting and engage, because the reader can easily find articles around the web about these topics. Also author explains very well the cases and it is important to mention that the author choosing three different topics to analyze gives to the reader more spherical knowledge and understanding about the topic. The only think that I would like to mention is that the author could add some graphs or give some valid papers. (As I have already explained).
+<<<<<<< HEAD
+=======
+### Introduction
+
+As already explained, the introduction section is very well written and perfectly introduces the topic. It uses simple language and helps people with no prior knowledge of this topic to understand and have a good introduction.
+
+### Background
+
+The author uses some acronyms about the USA government sections, which personally I had no prior knowledge about. So I needed to search for them. I suggest giving a reference from the USE government or another official web page with a clear explanation about the SEC, CFTC, and IRS. Additionally, the AML and KYC laws are well explained and give the reader an excellent first impression. I liked that the author gives more examples from countries besides the USA, such as Canada or the UK. Finally, the author uses simple language, which I greatly respect.
+
+### Case studies
+
+As I mentioned in previous sections, I liked a lot that the author uses well-known cases in his essay, and, in this way, it makes the reader's experience much more exciting and engaging because the reader can easily find articles around the web about these topics. Also, the author explains the cases very well, and it is essential to mention that choosing three different topics to analyze gives the reader more spherical knowledge and understanding. I only want to mention that the author could add some graphs or give some valid papers. (As I have already explained).
+>>>>>>> 191da5c64c3d766fae4928aef5188922d154c4b4
 
 ### Conclusion
 
